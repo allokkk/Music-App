@@ -1,4 +1,4 @@
-# musicplayer
+# Music Player
 
 ## It Is an offline Music Player 
 ### it will show the list of your downloaded songs 
